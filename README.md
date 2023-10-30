@@ -42,6 +42,7 @@ sudo apt-get install virt-manager
  
 Now restart your system.
 
+
 6.	Open virtual machine manager and then start creating your virtual machines.
 
 •	Click on create a new virtual machine icon.
